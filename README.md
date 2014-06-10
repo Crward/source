@@ -9,3 +9,6 @@ for OCS, including a number of custom-developed extensions for the Vassal utilit
 
 I am unsure where this repo was originally hosted -- as I recall it was among the subdirectories for vassal development, 
 but I've lost the exact address.
+
+The Source directory splits into "Net" and "COM," then a fairly long trail of subdirectories leads to his work on OCS
+(in Net) and Twilight in the Easte (TITE) (in COM).
