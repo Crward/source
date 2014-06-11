@@ -2,7 +2,8 @@ source
 ======
 
 This repo is a clone of George Hayward's Vassal modules for Multiman Publishing's Operational Combat System (OCS).
-Mr. Hayward passed away late in 2013 or early 2014. A very partial appreciation of his work for the wargaming community can be found in the OCS discussion thread at Consimworld.
+Mr. Hayward passed away late in Summer 2013. A very partial appreciation of his work for the wargaming community can be found in the OCS discussion thread at Consimworld:
+talk.consimworld.com/Webx?14@@.ee6b471/44263 .
 
 Among his legacies was a a large corpus of work on the Vassal modules
 for OCS, including a number of custom-developed extensions for the Vassal utility.  
